@@ -11,7 +11,7 @@ My goal is to continue making significant contributions to the company's success
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Analyst.
 
 ## Table of Contents
-- [About](https://github.com/masegaby/Data-Analysis-Portfolio/edit/main/README.md#About)
+- [About](https://github.com/masegaby/Data-Analyst-Portfolio/edit/main/README.md#About)
 - [Portfolio Projects](https://github.com/masegaby/Data-Analysis-Portfolio/edit/main/README.md#Portfolio-Projects)
 - [Education and Certificates](https://github.com/masegaby/Data-Analysis-Portfolio/edit/main/README.md#Education-and-Certificates)
 
